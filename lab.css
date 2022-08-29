@@ -1,0 +1,59 @@
+body {
+    background-image:url("/assets/background.png.png"); 
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    padding-left: 20%;
+    padding-right: 20%;
+}
+h1{
+    text-align: center;
+    color: red;
+    font-size: 80px;
+    text-shadow: 2px 2px 2px red
+}
+
+h2 {
+    color: white;
+    font-size: 40px;
+    height: fit-content;
+    text-align: center
+}
+
+div2{
+    color:whitesmoke;
+    font-size: 14px;
+    height: fit-content;
+    line-height: 1.5cm;
+}
+img {
+    max-height: 200px;
+    float: left;
+    padding-right: 50px;
+    
+}
+h3 {
+    color: white;
+    font-size: 40px;
+    height: fit-content;
+    text-align: center
+}
+div3{
+    color:whitesmoke;
+    font-size: 14px;
+    height: fit-content;
+    line-height: 1.5cm;
+}
+h4 {
+    color: white;
+    font-size: 40px;
+    height: fit-content;
+    text-align: center
+}
+
+div4{
+    color:whitesmoke;
+    font-size: 14px;
+    height: fit-content;
+    line-height: 1.5cm;
+}
